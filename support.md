@@ -12,7 +12,7 @@ Clarp is the iPhone and iPad app for the Clarp server: talk to the coding agents
 
 ## Getting started
 
-1. **Install the server** on the computer with your projects. The Host is open source; setup is one command from the [Clarp server repository](https://github.com/Maxteabag/clarp) once it is public. Until then, the app's first screen includes **Try the demo**, which runs against a simulated Host.
+1. **Install the server** on the computer with your projects. The Host is open source; setup is one command from the [Clarp server repository](https://github.com/Maxteabag/clarp) The app's first screen also includes **Try the demo**, which runs against a simulated Host.
 
 2. **Pair the phone.** On the computer run `clarp-admin pair create`, then in the app tap **Connect a Host** and scan the QR code. Hosts on the same Wi-Fi also appear in the list automatically.
 
