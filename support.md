@@ -12,7 +12,11 @@ Clarp is the iPhone and iPad app for the Clarp server: talk to the coding agents
 
 ## Getting started
 
-1. **Install the server** on the computer with your projects. The server is moving to a new Rust Host, and its one-line installer is paused until that is published. Check back here for the new install line.
+1. **Install the server** on the computer with your projects (Linux with a systemd user session and glibc 2.34 or newer):
+
+   ```sh
+   curl -fsSL https://maxteabag.github.io/clarp-site/install.sh | bash
+   ```
 
    The app's first screen also includes **Try the demo**, which runs against a simulated Host.
 
